@@ -7,7 +7,7 @@
 ![Javascript](https://img.shields.io/badge/Javascript-Language-yellow)
 ![Typescript](https://img.shields.io/badge/Typescript-Typing-blue)
 
-# React Watch Me
+# ReactJs Watch Me
 This is a list movies created with React and Json-server
 
 ## Technologies Used:
