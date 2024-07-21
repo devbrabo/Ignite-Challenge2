@@ -2,16 +2,16 @@
 
 <div align='center'>
 
-# **React Watch Me**
+# **Watch Me**
 
 </div>
 
 <div align='center'>
 
-![GitHub issues](https://img.shields.io/github/issues/gezielelyon/react_watch_me)
-![GitHub forks](https://img.shields.io/github/forks/gezielelyon/react_watch_me)
-![GitHub starts](https://img.shields.io/github/stars/gezielelyon/react_watch_me)
-![GitHub license](https://img.shields.io/github/license/gezielelyon/react_watch_me)
+[![GitHub issues](https://img.shields.io/github/issues/gezielelyon/watch-me)](https://github.com/gezielelyon/watch-me/issues)
+[![GitHub forks](https://img.shields.io/github/forks/gezielelyon/watch-me)](https://github.com/gezielelyon/watch-me/network)
+[![GitHub stars](https://img.shields.io/github/stars/gezielelyon/watch-me)](https://github.com/gezielelyon/watch-me/stargazers)
+[![GitHub license](https://img.shields.io/github/license/gezielelyon/watch-me)](https://github.com/gezielelyon/watch-me)
 ![Javascript](https://img.shields.io/badge/Javascript-Language-yellow)
 ![Typescript](https://img.shields.io/badge/Typescript-Typing-blue)
 ![HTML](https://img.shields.io/badge/HTML-Hypertext-red)
